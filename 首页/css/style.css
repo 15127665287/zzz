@@ -1,0 +1,30 @@
+
+.top{
+	height:2.25rem;
+	background-color: #1A1A21;
+}
+
+.top .p1 a{
+	color:#fff;
+	
+}
+.top .s1{
+	font-size: 0.65rem;
+	line-height: 2.25rem;
+	vertical-align: middle;
+}
+.top h1{
+	font-size: 0.85rem;
+	line-height: 2.25rem;
+	color:#FFFFFF;
+	position: absolute;
+	left:50%;
+	margin-left: -2.735rem;
+}
+.top .p2 a{
+	line-height: 2.25rem;
+	color:#fff;
+	margin-right: 0.7rem;
+	font-size: 1rem;
+}
+
